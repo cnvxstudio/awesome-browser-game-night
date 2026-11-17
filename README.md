@@ -18,6 +18,7 @@ Maintained by the Blather team. Blather and its companion materials are included
 - [Codenames Online](https://codenames.game/) - Official online version of the board game. Its own instructions explain nickname entry, room settings, sharing the room URL and coordinating over audio or video chat.
 - [JKLM.FUN](https://jklm.fun/) - Browser party-game hub including BombParty, Master of the Grid and PopSauce. It provides public and private room controls; choose the particular game and language before inviting friends.
 - [Blather](https://blatherround.com/) - Our independent English word party game for 2-6 humans. A describer builds clues from limited word tiles while others type guesses; earlier guesses can become new clue material. Choose 1-5 rounds, with one describing turn per player per round.
+- [Word Spies](https://wordspies.com/) - Codenames-style word game (not affiliated) that I make. Two teams share a 25-word grid; each team's spymaster gives one-word clues and teammates guess. Any seat can be a person or an AI model, so a small group can fill empty seats with AI teammates. Rooms are shared by link; no account is needed for a quick game.
 
 ## Drawing and guessing games
 
